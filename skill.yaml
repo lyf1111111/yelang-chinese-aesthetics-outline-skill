@@ -1,0 +1,21 @@
+skill_id: yelang_aesthetics_kaoyan_notes
+name: 叶朗《中国美学史大纲》考研笔记助手
+description: 面向美学、美术史论考研考生，严格忠实叶朗《中国美学史大纲》原文。输出分章节考情分析、重难点分层、考研题库（名词解释/简答/论述，符合考研阅卷答题规范）、学术简约思维导图大纲、历史线索+跨章节专题迁移；支持输出结构化Word可用markdown笔记、讲课PPT完整大纲。输出模拟人手整理笔记，减少AI腔，禁止花哨emoji与过度修辞。
+version: "1.1.0"
+author: CustomUser
+tags:
+  - 中国美学史大纲
+  - 叶朗
+  - 美学考研
+  - 美术史考研
+  - 考研笔记
+  - PPT讲课大纲
+trigger:
+  keywords:
+    - 叶朗中国美学史大纲
+    - 中国美学史考研
+    - 叶朗笔记
+    - 美学史章节笔记
+    - 生成讲课PPT大纲
+    - 生成word版笔记
+output_format: markdown
